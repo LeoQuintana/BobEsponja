@@ -3,7 +3,7 @@ body{
 }
 .bob {
 	top: 25px;
-	height: 619px;
+	height: 623px;
 	background: rgb(255,242,10);
 	border: 5px solid black;
 }
@@ -22,9 +22,9 @@ body{
 	background: rgba(204,178,106,.7);
 }
 .ojos {
-	border: 3px solid black;
+	border: 5px solid black;
 	background: white;
-	height: 140px;
+	height: 144px;
 	top: 85px;
 	border-radius: 50%; 
 }
