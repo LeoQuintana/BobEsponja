@@ -3,11 +3,26 @@ body{
 }
 .bob {
 	top: 25px;
-	height: 480px;
+	height: 619px;
 	background: rgb(255,242,10);
+	border: 5px solid black;
+}
+.forma-a {
+	border-radius: 50%;
+	height: 78px;
+	left: 10px;
+	top: 8px;
+	background: rgba(204,178,106,.7);
+}
+.forma-b {
+	border-radius: 50%;
+	height: 29px;
+	left: -9px;
+	top: 84px;
+	background: rgba(204,178,106,.7);
 }
 .ojos {
-	border: 5px solid black;
+	border: 3px solid black;
 	background: white;
 	height: 140px;
 	top: 85px;
